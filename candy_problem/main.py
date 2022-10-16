@@ -2,6 +2,8 @@
 DIRECTIONS
 ==========
 
+
+
 1. In `get_friends_favorite_candy_count()`, return a dictionary of candy names and the
 amount of times each candy appears in the `friend_favorites` list.
 
